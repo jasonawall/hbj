@@ -27,17 +27,16 @@ a {
   margin: 60px auto 20px auto;
 }
 
+video {
+    margin: 60px auto 20px auto;
+  }
+
 .little i {
   position: relative;
   top: 120px;
 }
 
 .large {
-  background: url('file:///Users/jason/Documents/GitHub/hbj/resources/images/vegburger.jpg') no-repeat center center fixed;
-  background-size: cover;
-  object-fit: cover;
-  overflow: hidden;
-
   width: 100%;
   height: 820px;
   margin: 0 auto;
@@ -45,10 +44,64 @@ a {
   display: block;
 }
 
+#two {
+  background: url('file:///Users/jason/Documents/GitHub/hbj/resources/images/food.jpg') no-repeat center center fixed;
+  background-size: cover;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+#three {
+  background: url('file:///Users/jason/Documents/GitHub/hbj/resources/images/board.jpg') no-repeat center center fixed;
+  background-size: cover;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+#four {
+  background: url('file:///Users/jason/Documents/GitHub/hbj/resources/images/vegburger.jpg') no-repeat center center fixed;
+  background-size: cover;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+#five {
+  background: url('file:///Users/jason/Documents/GitHub/hbj/resources/images/email.jpg') no-repeat center center fixed;
+  background-size: cover;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+#six {
+  background: url('file:///Users/jason/Documents/GitHub/hbj/resources/images/jelly.jpg') no-repeat center center fixed;
+  background-size: cover;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+#seven {
+  background: url('file:///Users/jason/Documents/GitHub/hbj/resources/images/paddle.jpg') no-repeat center center fixed;
+  background-size: cover;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+#eight {
+  background: url('file:///Users/jason/Documents/GitHub/hbj/resources/images/smiley.jpg') no-repeat center center fixed;
+  background-size: cover;
+  object-fit: cover;
+  overflow: hidden;
+}
+
 #burger {
   width: 100%;
   height: 480px;
   margin: 60px auto 20px auto;
+}
+
+.large h1 {
+  position: relative;
+  top: 530px;
 }
 
 .large i {
