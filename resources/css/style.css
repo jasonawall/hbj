@@ -44,14 +44,14 @@ video {
   display: block;
 }
 
-#two {
+#food {
   background: url('file:///Users/jason/Documents/GitHub/hbj/resources/images/food.jpg') no-repeat center center fixed;
   background-size: cover;
   object-fit: cover;
   overflow: hidden;
 }
 
-#three {
+#waves {
   background: url('file:///Users/jason/Documents/GitHub/hbj/resources/images/board.jpg') no-repeat center center fixed;
   background-size: cover;
   object-fit: cover;
@@ -65,33 +65,41 @@ video {
   overflow: hidden;
 }
 
-#five {
+#work {
   background: url('file:///Users/jason/Documents/GitHub/hbj/resources/images/email.jpg') no-repeat center center fixed;
   background-size: cover;
   object-fit: cover;
   overflow: hidden;
 }
 
-#six {
+#stung {
   background: url('file:///Users/jason/Documents/GitHub/hbj/resources/images/jelly.jpg') no-repeat center center fixed;
   background-size: cover;
   object-fit: cover;
   overflow: hidden;
 }
 
-#seven {
+#sup {
   background: url('file:///Users/jason/Documents/GitHub/hbj/resources/images/paddle.jpg') no-repeat center center fixed;
   background-size: cover;
   object-fit: cover;
   overflow: hidden;
 }
 
-#eight {
+#love {
   background: url('file:///Users/jason/Documents/GitHub/hbj/resources/images/smiley.jpg') no-repeat center center fixed;
   background-size: cover;
   object-fit: cover;
   overflow: hidden;
 }
+
+#date {
+  background: url('file:///Users/jason/Documents/GitHub/hbj/resources/images/date.jpg') no-repeat center center fixed;
+  background-size: cover;
+  object-fit: cover;
+  overflow: hidden;
+}
+
 
 #burger {
   width: 100%;
@@ -107,4 +115,8 @@ video {
 .large i {
   position: relative;
   top: 720px;
+}
+
+scroll-container {
+  scroll-behavior: smooth;
 }
