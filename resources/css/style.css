@@ -53,7 +53,7 @@ video {
 }
 
 #food {
-  background: url('/./images/food.jpg') no-repeat center center fixed;
+  background: url('../images/food.jpg') no-repeat center center fixed;
   background-size: cover;
   object-fit: cover;
   overflow: hidden;
