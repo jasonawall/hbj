@@ -60,7 +60,7 @@ video {
 }
 
 #waves {
-  background: url('./resources/images/board.jpg') no-repeat center center fixed;
+  background: url('https://raw.githubusercontent.com/jasonawall/hbj/master/resources/images/board.jpg') no-repeat center center fixed;
   background-size: cover;
   object-fit: cover;
   overflow: hidden;
