@@ -60,49 +60,42 @@ video {
 }
 
 #waves {
-  background: url('https://raw.githubusercontent.com/jasonawall/hbj/master/resources/images/board.jpg') no-repeat center center fixed;
-  background-size: cover;
-  object-fit: cover;
-  overflow: hidden;
-}
-
-#four {
-  background: url('./resources/images/vegburger.jpg') no-repeat center center fixed;
+  background: url('../images/board.jpg') no-repeat center center fixed;
   background-size: cover;
   object-fit: cover;
   overflow: hidden;
 }
 
 #work {
-  background: url('./resources/images/email.jpg') no-repeat center center fixed;
+  background: url('../images/email.jpg') no-repeat center center fixed;
   background-size: cover;
   object-fit: cover;
   overflow: hidden;
 }
 
 #stung {
-  background: url('./resources/images/jelly.jpg') no-repeat center center fixed;
+  background: url('../images/jelly.jpg') no-repeat center center fixed;
   background-size: cover;
   object-fit: cover;
   overflow: hidden;
 }
 
 #sup {
-  background: url('./resources/images/paddle.jpg') no-repeat center center fixed;
+  background: url('../images/paddle.jpg') no-repeat center center fixed;
   background-size: cover;
   object-fit: cover;
   overflow: hidden;
 }
 
 #love {
-  background: url('./resources/images/smiley.jpg') no-repeat center center fixed;
+  background: url('../images/smiley.jpg') no-repeat center center fixed;
   background-size: cover;
   object-fit: cover;
   overflow: hidden;
 }
 
 #date {
-  background: url('./resources/images/date.jpg') no-repeat center center fixed;
+  background: url('../images/date.jpg') no-repeat center center fixed;
   background-size: cover;
   object-fit: cover;
   overflow: hidden;
